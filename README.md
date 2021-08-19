@@ -1,2 +1,2 @@
 # mytodolist
-Basic todolist !
+Basic todolist with bootstrap!
